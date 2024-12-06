@@ -3,7 +3,6 @@ author = "Hugo Authors"
 title = "Markdown Syntax Guide"
 date = "2023-12-24"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-<!--series = ["Guides"]-->
 aliases = ["mumm"]
 toc = true
 +++
