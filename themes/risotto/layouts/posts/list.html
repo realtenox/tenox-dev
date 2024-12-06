@@ -7,7 +7,7 @@
     {{ range .Pages }}
     <article class="post">
         <header class="post__header">
-            <a href="{{ .Permalink }}">> {{ .Title | markdownify }} {{ if .Params.series }}{{ .Params.series }}{{ end }}</a> <i>({{ .Date.Format "02.01.2006" }})</i>
+            <a href="{{ .Permalink }}">> {{ .Title | markdownify }} {{ if .Params.series }}{{ .Params.series }}{{ end }}</a><i> ({{ .Date.Format "02.01.2006" }})</i>
         </header>
 
         <section class="post__summary">
