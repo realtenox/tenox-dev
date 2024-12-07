@@ -1,7 +1,6 @@
 +++
-aliases = ["ueber"]
+aliases = ["ueber", "about"]
 title = "Über"
 +++
 
-Hallo! Diese Seite wird gerade noch gebaut aber hier ein paar Fakten zu mir
-- 20
+ <mark>&nbsp;Diese Seite befindet sich zurzeit im Aufbau&nbsp;</mark>
