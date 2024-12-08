@@ -15,7 +15,7 @@ Was die ganze Aufmachung belangt fand ich es dieses Jahr auch magerer als davor 
 synthwave, cottagecore, j-rock und am meisten nightrun-retrowave aus.
 :heart:
 
-## Mein Gedöns
+## Mein Gedöns 
 
 628 individuelle Songs
 12512 Minuten
