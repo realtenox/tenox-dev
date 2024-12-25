@@ -20,7 +20,7 @@ palette = "windows-95"
 # Sidebar: about/bio
 [params.about]
 title = "tenox.dev"
-description = "Eine... Seite im Aufbau? yippieeeeeeeeeeeeeeeeeeee Folgen Sie mir schon auf Blauskei?!"
+description = "Ein Blog über Sachen die mich bewegen. Kürzere Takes gefällig? Schau mal auf Bluesky rein."
 # unicode/emoji logo:
 # logo = "🍚"
 # or use an image:
@@ -34,7 +34,7 @@ description = "Eine... Seite im Aufbau? yippieeeeeeeeeeeeeeeeeeee Folgen Sie mir
 [[params.socialLinks]]
 icon = "fa-brands fa-bluesky"
 title = "Bluesky"
-url = "https://bsky.app/tenox.dev"
+url = "https://bsky.app/profile/tenox.dev"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
