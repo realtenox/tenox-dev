@@ -15,7 +15,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "windows-95"
+palette = "windows-95"  
 
 # Sidebar: about/bio
 [params.about]
@@ -36,10 +36,10 @@ icon = "fa-brands fa-bluesky"
 title = "Bluesky"
 url = "https://bsky.app/profile/tenox.dev"
 
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:servus@tenox.dev"
+# [[params.socialLinks]]
+# icon = "fa-solid fa-envelope"
+# title = "Email"
+# url = "mailto:servus@tenox.dev"
 
 [menu]
 
