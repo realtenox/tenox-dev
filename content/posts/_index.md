@@ -5,4 +5,4 @@ author = "Hugo Authors"
 description = ""
 +++
 
-Hier findest du alle kleinen, feinen Posts von mir. <br> Fehlt was? Schau mal im [> Archiv](./archiv) nach.
+Hier findest du alle kleinen, feinen Posts von mir. Bald auch nach Monat sortiert, ich muss noch mit Hugo klarkommen.
