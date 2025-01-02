@@ -3,6 +3,7 @@ author = "Boris"
 title = "Die Sache mit neuen Handys"
 date = "2024-12-12"
 description = "Ich habe riesiges FOMO was Handys angeht"
+draft = "true"
 +++
 
 Mein Pixel wird bald 5 Jahre alt und die Suche nach dem nächsten Handy nimmt kein Ende.<!--more-->
