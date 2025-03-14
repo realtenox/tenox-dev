@@ -20,9 +20,9 @@ palette = "windows-95"
 # Sidebar: about/bio
 [params.about]
 title = "tenox.dev"
-description = "Ein Blog über Sachen die mir vielleicht auf den Sack gehen."
+description = "Noch leer. Bitte mach das Licht aus, wenn du gehst."
 # unicode/emoji logo:
-logo = "☃️"
+# logo = "☃️"
 # or use an image:
 #logo_image = "images/rice.svg"
 
@@ -36,18 +36,18 @@ icon = "fa-brands fa-bluesky"
 title = "Bluesky"
 url = "https://bsky.app/profile/tenox.dev"
 
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "Guck mal hier"
-url = "https://github.com/realtenox/tenox-dev"
+#[[params.socialLinks]]
+#icon = "fa-brands fa-github"
+#title = "Guck mal hier"
+#url = "https://github.com/realtenox/tenox-dev"
 
-[menu]
+#[menu]
 
-  [[menu.main]]
-    identifier = "über"
-    name = "über"
-    url = "/ueber/"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "über"
+#    name = "über"
+#    url = "/ueber/"
+#    weight = 10
 
 [taxonomies]
 category = "categories"

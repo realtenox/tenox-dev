@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{ .Content }}
-    <b>Letzte Posts</b><br>
+    <b></b><br>
     {{ range where site.RegularPages "Section" "posts" | first 3}}
     <a href="{{ .Permalink }}">> {{ .Title | markdownify }}{{ if .Params.series }} {{ .Params.series }}{{ end }}</a> <i>({{ .Date.Format "02.01.2006" }})</i><br>
     {{ end }}
